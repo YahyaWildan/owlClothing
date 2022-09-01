@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348989183509",
+    "project_id": "owlclothing-630c1",
+    "storage_bucket": "owlclothing-630c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348989183509:android:29a3dd3c262cef4680201c",
+        "android_client_info": {
+          "package_name": "com.ywild.ocp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348989183509-g2us3jvhu30ti7r714h9h8sritfjuqkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20eH8KVwkoWzEHilWNFLHjKxHcEbFRyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348989183509-g2us3jvhu30ti7r714h9h8sritfjuqkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
